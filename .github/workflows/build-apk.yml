@@ -26,8 +26,8 @@ jobs:
           java-version: '17'
           cache: 'gradle'
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Accept Android SDK Licenses
+        run: yes | sdkmanager --licenses || true
 
       - name: Configure AAPT2 for CI
         run: sed -i '/android.aapt2FromMavenOverride/d' gradle.properties
