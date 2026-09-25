@@ -6,10 +6,10 @@
 
 **Free, unlimited personal cloud storage for Android powered by Telegram.**
 
-[![Platform](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/deepu2135/CloudVaultAndroid)
+[![Platform](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/deep12323/CloudVault)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Engine](https://img.shields.io/badge/Engine-TDLib-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://core.telegram.org/tdlib)
-[![Release](https://img.shields.io/github/v/release/deepu2135/CloudVaultAndroid?style=flat-square)](https://github.com/deepu2135/CloudVaultAndroid/releases/latest)
+[![Release](https://img.shields.io/github/v/release/deep12323/CloudVault?style=flat-square)](https://github.com/deep12323/CloudVault/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 </div>
@@ -31,7 +31,7 @@
 
 ## Download & Install
 
-Get the latest release APK from the [Releases](https://github.com/deepu2135/CloudVaultAndroid/releases/latest) page:
+Get the latest release APK from the [Releases](https://github.com/deep12323/CloudVault/releases/latest) page:
 
 - **`CloudVault-v1.0.1-arm64-v8a.apk`** — **Recommended** for modern 64-bit Android smartphones and tablets (~75% smaller).
 - **`CloudVault-v1.0.1-universal.apk`** — All-in-one build compatible with all devices.
